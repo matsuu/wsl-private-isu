@@ -39,7 +39,7 @@ http://localhost/
 ### ベンチマーク実行
 
 ```
-cd ~/private-isu/benchmarker
+cd ~/private_isu/benchmarker
 bin/benchmarker -u userdata -t http://127.0.0.1
 ```
 
